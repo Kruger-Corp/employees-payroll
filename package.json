@@ -1,0 +1,35 @@
+{
+  "name": "employees-payroll",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Payroll of Employees.",
+  "workspaces": [
+    "human-talent"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kruger-Corp/employees-payroll.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kruger-Corp/employees-payroll/issues"
+  },
+  "homepage": "https://github.com/Kruger-Corp/employees-payroll#readme",
+  "eslintConfig": {
+    "extends": "./.eslintrc.js"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.28.2",
+    "@typescript-eslint/parser": "^4.28.2",
+    "eslint": "^7.30.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.2"
+  }
+}

@@ -1,3 +1,6 @@
 [submodule "human-talent"]
 	path = human-talent
 	url = https://github.com/Kruger-Corp/human-talent
+[submodule "salary-rules"]
+	path = salary-rules
+	url = https://github.com/Kruger-Corp/salary-rules
