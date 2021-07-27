@@ -1,4 +1,3 @@
 [submodule "human-talent"]
 	path = human-talent
 	url = https://github.com/Kruger-Corp/human-talent
-	branch = main
